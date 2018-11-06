@@ -1,0 +1,8 @@
+{
+  "name": " 7PZ-Bot",
+  "version": "",
+  "dependencies": {
+    "node-modules": "^1.0.1",
+    "superagent": "^3.8.3"
+  }
+}
